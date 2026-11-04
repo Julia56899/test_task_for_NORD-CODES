@@ -1,0 +1,5 @@
+target/
+app/*.jar
+.idea/
+*.iml
+.allure/
